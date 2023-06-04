@@ -10,7 +10,7 @@
 </div>
 
 - 📚 Hoje estou cursando Bacharelado em Ciência da Computação, na Universidade São Judas Tadeu
-- 🔍 Estou aprendendo a programar em Javascript, tenho alguns projetos nessa linguagem, como o aplicativo React Native, mas sempre estarei apredendo algo novo e atualizando aqui no meu perfil
+- 🔍 Estou aprendendo a programar em Javascript, tenho alguns projetos nessa linguagem, como a página WEB <strong>(lista-pokemon) disponível no meu github</strong>, mas sempre estarei apredendo algo novo e atualizando aqui no meu perfil
 - 👨‍💻 Tenho objetivo de trabalhar na area Back-End Developer
 
 <div>
