@@ -14,7 +14,6 @@
 - 👨‍💻 Tenho objetivo de trabalhar na area Back-End Developer
 
 <div>
-  <img heigh: "48%" src="https://github-readme-stats.vercel.app/api?username=Guilherme8782&show_icons=true&bg_color=00000000&hide=contribs,issues">
   <img heigh: "90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme8782&bg_color=00000000&layout=compact">
 </div>
 
